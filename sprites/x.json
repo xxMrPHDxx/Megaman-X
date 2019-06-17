@@ -1,0 +1,18 @@
+{
+	"image": "images/x.png",
+	"frames": [
+		{
+			"name": "idle1",
+			"rect": [ 226, 29, 30, 34 ]
+		},{
+			"name": "idle2",
+			"rect": [ 261, 29, 30, 34 ]
+		},{
+			"name": "idle3",
+			"rect": [ 295, 29, 30, 34 ]
+		},{
+			"name": "idle4",
+			"rect": [ 330, 29, 30, 34 ]
+		}
+	]
+}
